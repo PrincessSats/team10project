@@ -78,6 +78,21 @@ team10project/
 
 3.  **Получите прогноз:**\
     📊 В ответ вы получите **прогноз ИКВ на 7 дней**, если ваше местонахождение находится в **Москве**.
+    
+* * * * *
+
+Участники проекта
+-----------------
+
+-   [pacrog](https://github.com/pacrog)
+
+-   [nekita473](https://github.com/nekita473)
+
+-   [VMartU](https://github.com/VMartU)
+
+-   [daria-nik](https://github.com/daria-nik)
+
+-   [PrincessSats](https://github.com/PrincessSats)
 
 * * * * *
 
